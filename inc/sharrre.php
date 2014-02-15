@@ -65,7 +65,7 @@
 			}
 		});
 		
-		var shareContainer = jQuery("#sharrre-container"),
+		var shareContainer = jQuery(".sharrre-container"),
 		header = jQuery('#header'),
 		postEntry = jQuery('.entry'),
 		$window = jQuery(window),
